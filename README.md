@@ -1,2 +1,2 @@
-# async-requests
-Custom async requests implementation. Learning project.
+# async-rest-client
+Custom async rest client implementation. Learning project.

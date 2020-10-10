@@ -1,2 +1,2 @@
 # async-requests
-Cuustom async requests implementation. Learning project.
+Custom async requests implementation. Learning project.
